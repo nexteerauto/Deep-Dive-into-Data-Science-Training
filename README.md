@@ -16,6 +16,8 @@ The training program is structured into these modules:
 * **Part 1: Python Programming (Review)**
 * **Part 2: Probability & Statistics (+ EDA Lab)**
 * **Part 3: Deep Learning**
+    * Note: This notebook contains large outputs and may not render on GitHub.  
+    Please use Google Colab to view the file with all its outputs: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nexteerauto/Deep-Dive-into-Data-Science-Training/blob/master/Deep_Dive_into_Data_Science_Part_3_Deep_Learning.ipynb)
 * **Part 4: Capstone Project**
 
 ## Teaching Approach & Differences with Standard Training
